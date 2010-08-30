@@ -1,0 +1,9 @@
+
+	GIT-JCR
+
+Git-Jcr is JCR (JSR-283) compliant both:
+ - Git backed JCR implementation
+ - JCR view for Git repositories
+
+The aim of this project is to provide JCR implementation inspired by
+Git's repository model.
